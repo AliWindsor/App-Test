@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
 
    static void usingRandomClass() {
        Random randomGenerator = new Random();
-       int randomInt = randomGenerator.nextInt(6) + 1;
+       int randomInt = randomGenerator.nextInt(10) + 1;
       //System.out.println("Random number generated is : " + randomInt);
   }
 }
