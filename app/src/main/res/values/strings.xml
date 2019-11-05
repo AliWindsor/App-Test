@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="dice_button">Click to roll</string>
+    <string name="dice_number">Roll the dice!</string>
+</resources>
